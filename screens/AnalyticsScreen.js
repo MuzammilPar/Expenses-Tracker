@@ -145,7 +145,7 @@ const AnalyticsScreen = ({ navigation }) => {
                 <Text style={styles.headerSubtitle}>Insights into your spending patterns</Text>
               </View>
               <View style={styles.headerIcon}>
-                <Icon name="chart-line" size={32} color="white" />
+                <Icon name="chart-pie" size={32} color="white" />
               </View>
             </View>
 
